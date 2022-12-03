@@ -1,0 +1,45 @@
+body{
+    background-color: #272727;
+}
+
+
+div{
+    width: 600px;
+    height: 350px;
+    background-color: aqua;
+    margin-top: 10%;
+    margin-left: 25%;
+    margin-right: 20%;
+    padding: 50px;
+    padding-top: 5px;
+}
+
+h1{
+    padding-top: 0;
+    font-size:50px;
+    font-weight: 700;
+}
+
+
+.name1{
+    font-style: italic;
+    font-size: 30px;
+}
+
+.name2{
+    font-style: italic;
+    font-size: 30px;
+}
+
+.name2label{
+    font-size: 30px;
+}
+
+.name1label{
+    font-size: 30px;
+}
+
+p{
+        font-size: 30px;
+    
+}
